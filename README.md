@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranavNaugain
 - 👀 I’m interested in Game Development and AI Development  
-- 🌱 I’m currently learning JS and Unity engine
+- 🌱 I’m currently working on unbreal engine
 - 💞️ I’m looking to collaborate on Unreal Engine
 - 📫 You can reach me on gmail pranav.naugain@gmail.com
 - 🌱 Recently developed an game known as "THE ROARING HILLS"
